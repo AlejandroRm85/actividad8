@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.alejandrorm85.CitasTramitesExpo"
     },
     "web": {
       "output": "static",
@@ -41,6 +42,11 @@
     ],
     "experiments": {
       "reactCompiler": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5def51e5-508d-43c5-affc-1cc93438b9e4"
+      }
     }
   }
 }

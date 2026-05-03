@@ -1,0 +1,6 @@
+projectKey=miApp
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=miApp
+ceTaskId=e1a19ec7-8073-43c1-9481-f07985b7cf9e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e1a19ec7-8073-43c1-9481-f07985b7cf9e
